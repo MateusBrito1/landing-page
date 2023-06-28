@@ -1,4 +1,4 @@
 # landing-page
 https://mateusbrito1.github.io/landing-page/
 
-Landing page cartaz para Petcat, petshop para gatos.
+landing page for an audience that loves cats.
